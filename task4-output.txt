@@ -1,0 +1,8 @@
+What is the capital of France?
+A) Paris
+B) London
+C) Rome
+D) Berlin
+Your answer (A/B/C/D): a
+Quiz completed!
+Your score: 1/1

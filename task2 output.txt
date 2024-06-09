@@ -1,0 +1,12 @@
+Enter the number of subjects: 6 
+Enter marks obtained in subject 1: 78
+Enter marks obtained in subject 2: 76
+Enter marks obtained in subject 3: 56
+Enter marks obtained in subject 4: 97
+Enter marks obtained in subject 5: 77
+Enter marks obtained in subject 6: 87
+
+Results:
+Total Marks: 471
+Average Percentage: 78.5%
+Grade: C
